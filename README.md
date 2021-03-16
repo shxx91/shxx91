@@ -6,4 +6,4 @@ Hi, I'm Ana — a Data Analyst at <a href="https://www.bt.com/">BT</a>working in
 Qlik Sense, Tableau, Power BI, Python, Jupyter, SQL Server, SQL.
 <br>
 #### How to reach me
-<a href="www.linkedin.com/in/anaccferreira">Linkedin</a></p> 
+[Courses](https://www.linkedin.com/in/anaccferreira/)
